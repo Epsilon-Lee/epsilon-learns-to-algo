@@ -1,0 +1,15 @@
+# Start from Something Interests Me {#intro}
+
+This chapter is going to hold several learning experience during
+which I get to familiar with something interesting.
+
+> First principle: to start from something really interests you
+so that you would not give up at first when you have not taste
+the beauty of the field
+
+However, to guarantee that those interesting stuff is also classic
+or useful from a pragmatic point of view, I would like to first
+choose from topics of [Donald Knuth's Chritmas Lectures](https://www-cs-faculty.stanford.edu/~knuth/musings.html).
+
+> Second principle: find the classics to learn from the most well-known 
+field polit of all the time.

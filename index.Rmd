@@ -1,0 +1,50 @@
+--- 
+title: "Epsilon Learns to Algo"
+author: "Epsilon Guanlin Li"
+date: "Aug. 26 2019"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: rstudio/bookdown-demo
+description: "This is a minimal example of using the bookdown package to write a book. The output format for this example is bookdown::gitbook."
+---
+
+# Preface {-}
+
+This small book is a notebook or diary book recording my roadmap to
+learning algorithms and data structures. I would like to first start
+from something really interesting and gradually get into the basics
+and foundamental infrastructure of the whole algorithm palace.
+
+> From the beginning of the writing, I am thinking that I am weak in
+algorithms and probabily due to education I used to receive while learning
+algorithms. So this note is expected to demonstrate experimentally how I educate
+myself to be not afraid of and love algorithms. So I hope this note
+can be encouraging and educational as well.
+
+## Classic Algorithm Books: A review {-}
+
+In this section, I would like to review several algorithm books. They are:
+
+- **Algorithms** [@Dasgupta:2006:ALG:1177299]
+- **Algorithm Design** [@Kleinberg:2005:AD:1051910]
+- **Introduction to Algorithms** [@Cormen:2009:IAT:1614191]
+
+@Dasgupta:2006:ALG:1177299 is a suitable-length book (about 300+ pages) for
+quickly getting to grasp the idea of algorithm design and many more
+philosophical understanding of a great many algorithms and techniques.
+While @Cormen:2009:IAT:1614191 is a gigantic book which includes all the
+algorithms of the first two books as well as carefully categorized data
+structures like `binary trees`, `red-black trees` and more advanced `Fibonacci
+heaps`. This book emphasizes on algorithm analysis for which it introduces
+several analysis techniques such as `amortised analysis`.
+@Kleinberg:2005:AD:1051910 is a very elegant book which I think is similar
+to the writing philosophy of @Dasgupta:2006:ALG:1177299, since both of them
+task as example and develop realistic problems to guide the reader into 
+thinking of delicate algorithms from simple ones.
+
+
+

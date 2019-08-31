@@ -1,0 +1,21 @@
+## Dancing Links
+
+Dancing links is a data structure proposed as an efficient implementation
+of the X algorithm which finds all feasible solutions for an [exact cover](https://en.wikipedia.org/wiki/Exact_cover)
+problem.
+
+In the following, I would like to give a brief introduction to the exact cover
+problem with several applications. Most of the current contents are adopted 
+from the 2018 Christmas Lecture by Donald Knuth.
+
+- Exact cover problem, restated in my mathematical wordings;
+- The dancing links data structure and its implementation through `c++`.
+
+
+### Exact Cover Problem
+
+Exact cover problem can be mathematically thought of as a set cover problem.
+Formally, given a set $X$ and a subset of its power set $S \subset 2^X$, find
+a subset of $S' \subset S$, such that $\forall S'_i \in S$
+
+

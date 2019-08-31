@@ -1,0 +1,9 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+_book/
+book-output/
+push_bookoutput.sh
+bookdown-demo.log
+initialize_gh_pages.sh
