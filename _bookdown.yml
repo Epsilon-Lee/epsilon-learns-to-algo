@@ -6,6 +6,6 @@ delete_merged_file: true
 rmd_files: ["index.Rmd",
             "01-start-with-sth-interest.Rmd",
             "01.1-dancing-links.Rmd",
-            "02-literature.Rmd",
+            "02-data-structure-and-info-retrieval-in-python.Rmd",
             "03-method.Rmd",
             "06-references.Rmd"]
