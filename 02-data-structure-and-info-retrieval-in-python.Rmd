@@ -1,0 +1,3 @@
+# Reading A Book
+
+This chapter is a log of my reading experience of this online free book named [Data Structures and Information Retrieval in Python](https://allendowney.github.io/DSIRP/index.html), I hope I can gain more practical tips and habits of coding.
